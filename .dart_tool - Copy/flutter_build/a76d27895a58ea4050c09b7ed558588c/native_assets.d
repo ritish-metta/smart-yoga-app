@@ -1,0 +1,1 @@
+ C:\\Projects\\smart_yoga_mat\\smart_yoga_mat\\.dart_tool\\flutter_build\\a76d27895a58ea4050c09b7ed558588c\\native_assets.yaml: 

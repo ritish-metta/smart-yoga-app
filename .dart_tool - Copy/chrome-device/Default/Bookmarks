@@ -1,0 +1,101 @@
+{
+   "checksum": "6f23fed828200ac9607bd691aca1bf8f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13359876176546961",
+            "date_last_used": "0",
+            "guid": "5b96dbf1-3f69-4989-9a3d-851d7e554446",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Complete Responsive Food / Restaurant Website Design Using HTML / CSS / JAVASCRIPT - From Scratch - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=MJUssi2c6Ls",
+            "visit_count": 0
+         }, {
+            "date_added": "13368526767871715",
+            "date_last_used": "0",
+            "guid": "9dd81e14-8928-4068-a67e-5b791f1ff900",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Responsive Admin Dashboard Using HTML CSS & JavaScript with Light & Dark Mode - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=BOF79TAIkYQ",
+            "visit_count": 0
+         }, {
+            "date_added": "13376498883396364",
+            "date_last_used": "0",
+            "guid": "2d328abb-960a-41bc-a035-aabcf2b3daee",
+            "id": "8",
+            "name": "Amazon.co.uk - Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp",
+            "visit_count": 0
+         }, {
+            "date_added": "13376498883396222",
+            "date_last_used": "0",
+            "guid": "94669530-2de7-46c4-b7e9-5b226e885c36",
+            "id": "7",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=agoda&c=232&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13376498883395538",
+            "date_last_used": "0",
+            "guid": "ceb4d0a6-8884-4e06-a205-a2f717a91680",
+            "id": "6",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         } ],
+         "date_added": "13376498883096767",
+         "date_last_used": "0",
+         "date_modified": "13376498883396364",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13376498883096770",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13376498883096771",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCHKowkSTAQAAEgAqGCtTNWdZdlFUeHFzWWFXNy81YzVoNUE9PUgDoAYMEq0BCAoSqAEKHGtxY2ZkdlVUWVhDRm1HeEVvYzUwNWVya2tyUT0SJDlkZDgxZTE0LTg5MjgtNDA2OC1hNjdlLTViNzkxZjFmZjkwMBgAIAIoAjCSnYKmtDI4oPrJzJYyQNeBgqa0MkocTW5NaStBYWFWVFhXQ0ltRUlxNUtvRU1OeFJBPVofIh25QTNPNUQrMGZMQkFFVmxDT0lWaDVFazRITGJVPWU4+Tkzwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkYzkyYzliYmMtMTAxMy01NTAzLTk2MTctYTNkYjQ3YTFjODIxGAAgACgAMIy30IffMTiLu9CH3zFAi7vQh98xShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEqwBCAkSpwEKHDlHZnpqK1hMdFU1SDRXZHNrcEhnaW9Pbys0RT0SJDViOTZkYmYxLTNmNjktNDk4OS05YTNkLTg1MWQ3ZTU1NDQ0NhgAIAIoAjCRnYKmtDI4qJbXr/YxQNaBgqa0MkocVHV0UTMxRzVvMVVmZUpsNFJURGUxcG5mSVY0PVoeIhxyaXF5eFcwejNYenYvaGV2L3JQTmVVblI3dUk9ZTj5OTPCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRkOTFjMGJiYS00OTkxLTVlMmEtOWVlMy03NDJlYTJmYjc0YTAYACAAKAAwjbfQh98xOKa70IffMUCmu9CH3zFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMTEyZjEzNjEtNDE0MS01YTNmLWI0MWMtZmEyYWY5NWY1ODhkGAAgACgAMJK30IffMTjqu9CH3zFA6rvQh98xShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}

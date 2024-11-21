@@ -1,0 +1,4 @@
+#Thu Nov 21 16:18:48 IST 2024
+base.0=C\:\\Projects\\smart_yoga_mat\\smart_yoga_mat\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
