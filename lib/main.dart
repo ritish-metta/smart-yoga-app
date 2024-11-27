@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:smart_yoga_mat/StreakApp.dart';
 import 'package:smart_yoga_mat/landing.dart';
 
 void main() {

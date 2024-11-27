@@ -146,7 +146,7 @@ class BluetoothController extends GetxController {
     if (isFunctionInProgress.value) return;
     isFunctionInProgress.value = true;
     functionStatus.value = 'Starting Warm-Up...';
-    await Future.delayed(const Duration(seconds: 3)); 
+    await Future.delayed(const Duration(seconds: 2)); 
     functionStatus.value = 'Warm-Up Started';
     isFunctionInProgress.value = false;
   }

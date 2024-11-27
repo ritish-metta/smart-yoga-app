@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:smart_yoga_mat/ControlPanelScreen.dart';
 import 'package:smart_yoga_mat/MusicControlWidget.dart';
+import 'package:smart_yoga_mat/StreakApp.dart';
 import 'package:smart_yoga_mat/otaupdateWidget.dart';
 import 'package:smart_yoga_mat/pages/ConnectionScreen.dart';
 
@@ -205,6 +206,7 @@ class _HomePageState extends State<HomePage> {
                       color: Colors.orange,
                       onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => MusicControlWidget())),
                     ),
+
                     buildFeatureButton(
                       context,
                       icon: Icons.download_for_offline_outlined,
@@ -212,6 +214,16 @@ class _HomePageState extends State<HomePage> {
                       color: Colors.red,
                       onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => OTAUpdateWidget())),
                     ),
+                    buildFeatureButton(
+                      context,
+                      icon: Icons.stacked_bar_chart_outlined,
+                      label: 'Streak',
+                      color: const Color.fromARGB(255, 134, 6, 254),
+                      onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => StreakApp())),
+                    ),
+
+
+
                   ],
                 ),
               ),

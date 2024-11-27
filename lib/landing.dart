@@ -15,7 +15,7 @@ class _LandingState extends State<Landing> {
       body: Container(
         decoration: BoxDecoration(
           gradient: LinearGradient(
-            colors: [Colors.purple.shade200, Colors.blue.shade100], // Soft gradient colors
+            colors: [const Color.fromARGB(255, 226, 217, 227), const Color.fromARGB(255, 194, 216, 85)], // Soft gradient colors
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
           ),
